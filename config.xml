@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android   = "http://schemas.android.com/apk/res/android" id="com.carlrdings.craftingguideforminecraft" version="1.1.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android   = "http://schemas.android.com/apk/res/android" id="com.carlrydings.craftingguideforminecraft" version="1.1.0">
   <name>Crafting Guide for Minecraft</name>
   <description>This app shows you what materials you need and how to craft items using those materials in Minecraft. 
       Crafting guides are included for basic items, tools, weapons, armour, food and mechanical. (This app is not 
