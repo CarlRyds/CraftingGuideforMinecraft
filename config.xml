@@ -1,8 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android   = "http://schemas.android.com/apk/res/android" id="com.carlrydings.craftingguideforminecraft" version="1.1.0">
   <name>Crafting Guide for Minecraft</name>
-  <description>This app shows you what materials you need and how to craft items using those materials in Minecraft. 
-      Crafting guides are included for basic items, tools, weapons, armour, food and mechanical. (This app is not 
-      official and is not affiliated with either Mojang or Microsoft).</description>
+  <description>This app shows you what materials you need and how to craft items using those materials in Minecraft. Crafting guides are included for basic items, tools, weapons, armour, food and mechanical. (This app is not official and is not affiliated with either Mojang or Microsoft).</description>
   <author href="http://carlrydings.com" email="carl.ryds@hotmail.co.uk">Carl Rydings</author>
   <content src="index.html"/>
     
@@ -52,7 +50,6 @@
   <icon src="www/res/icon/ios/icon-57-2x.png" gap:platform="ios" width="114" height="114"/>
   <icon src="www/res/icon/ios/icon-72-2x.png" gap:platform="ios" width="144" height="144"/>
     
-  <icon src="www/res/icon/webos/icon-64.png" gap:platform="webos"/>
   <icon src="www/res/icon/windows-phone/icon-48.png" gap:platform="winphone"/>
   <icon src="www/res/icon/windows-phone/icon-173-tile.png" gap:platform="winphone" gap:role="background"/>
   
