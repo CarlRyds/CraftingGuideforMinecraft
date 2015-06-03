@@ -16,6 +16,7 @@
   <preference name="exit-on-suspend" value="false"/>
   <preference name="show-splash-screen-spinner" value="true"/>
   <preference name="auto-hide-splash-screen" value="true"/>
+  <preference name="SplashScreenDelay" value="10000" />
   <preference name="disable-cursor" value="false"/>
   <preference name="android-minSdkVersion" value="17"/>
   <preference name="android-installLocation" value="auto"/>
@@ -52,6 +53,11 @@
   <icon src="www/res/icon/windows-phone/icon-48.png" gap:platform="winphone"/>
   <icon src="www/res/icon/windows-phone/icon-173-tile.png" gap:platform="winphone" gap:role="background"/>
   
+    <platform name="wp8">
+              <icon src="www/res/icon/wp8/ApplicationIcon.png" width="99" height="99" />
+              <splash src="www/res/screen/wp8/SplashScreenImage.jpg" width="768" height="1280"/>
+    </platform>
+    
   <gap:splash src="www/res/screen/android/screen-ldpi-portrait.png" gap:platform="android" gap:qualifier="port-ldpi"/>
   <gap:splash src="www/res/screen/android/screen-mdpi-portrait.png" gap:platform="android" gap:qualifier="port-mdpi"/>
   <gap:splash src="www/res/screen/android/screen-hdpi-portrait.png" gap:platform="android" gap:qualifier="port-hdpi"/>
